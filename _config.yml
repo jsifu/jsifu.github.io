@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Joshua Sifuentes"
+#  name   : "Joshua Sifuentes"
   avatar : "/assets/images/1738797135448.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "UT Austin Junior majoring in Economics experienced in data analytics with a passion for Financial Markets"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
